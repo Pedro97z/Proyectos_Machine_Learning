@@ -1,1 +1,7 @@
-README
+Proyecto Housing
+
+El presente notebook busca replicar el proyecto de alojamiento de casas (housing) en California, basándose en el libro "Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow" de Aurélien Géron.
+
+Tópicos: Análisis exploratorio de datos (EDA), Análisis univariable, Análisis bivariable, Visualización de datos, Preparación de datos, Data cleaning, Feature Selection, Feature Engineering, Feature Scaling, Fine Tuning, Grid Search.
+Librerías: Pandas, Matplotlib, Scikit Learn, Numpy, Scipy.
+Modelos: Linear Regression, Decision Tree Regressor, Random Forest Regressor.
